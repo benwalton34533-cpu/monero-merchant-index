@@ -1,0 +1,21 @@
+category,listings,no_kyc_pct,onion_pct,xmr_confirmed_pct,grade_a_or_b
+Businesses,441,34.7,10.4,57.4,70
+Exchanges,402,43,11.4,63.9,82
+Non-Profits,238,12.6,4.6,70.6,26
+"Web Hosting",190,32.6,9.5,45.8,23
+Utilities,63,11.1,7.9,76.2,3
+Communities,58,10.3,5.2,10.3,3
+"Merchant Services",55,34.5,3.6,85.5,8
+Media,50,0,6,34,0
+VPNs,46,60.9,23.9,67.4,17
+Wallets,40,60,12.5,90,19
+Nodes,38,7.9,13.2,86.8,3
+"Other Directories",37,37.8,10.8,40.5,6
+Mining,34,8.8,5.9,67.6,3
+Cards,33,69.7,6.1,63.6,4
+Education,30,6.7,3.3,26.7,2
+Finance,23,17.4,8.7,34.8,2
+"Onion Only",15,40,100,20,1
+Freelancers,11,18.2,0,36.4,0
+Jobs,7,42.9,14.3,85.7,2
+"Phone & SMS",3,33.3,33.3,66.7,1
